@@ -406,3 +406,5 @@ const data = {
     { name: "Couverts", meals: [] },
   ],
 };
+
+module.exports = data;
